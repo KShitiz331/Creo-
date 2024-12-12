@@ -1,0 +1,167 @@
+clnttcp_create: connect failed, error = 10061, retrying
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "proe/zbaseutils"
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "proe/zbase_apps"
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdutilappphotorealrend'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdUtilAppPhotoRealRend, from resource file: procmdutilappphotorealrend
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdutilappphotorealrendclose'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdUtilAppPhotoRealRendClose, from resource file: procmdutilappphotorealrendclose
+%UIMSG-APPLICATION-ERROR, GetImageInfo: Failed to find image "imgf_col_16x16_0_33554431"
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: hover function already set
+%UIMSG-USER-ERROR, Failed to preload image sp_128
+%UIMSG-USER-ERROR, Failed to preload image sp_129
+%UIMSG-USER-ERROR, Failed to preload image sp_130
+%UIMSG-USER-ERROR, Failed to preload image sp_131
+%UIMSG-USER-ERROR, Failed to preload image sp_132
+%UIMSG-USER-ERROR, Failed to preload image sp_133
+%UIMSG-USER-ERROR, Failed to preload image sp_134
+%UIMSG-USER-ERROR, Failed to preload image sp_135
+%UIMSG-USER-ERROR, Failed to preload image sp_136
+%UIMSG-USER-ERROR, Failed to preload image sp_137
+%UIMSG-USER-ERROR, Failed to preload image sp_138
+%UIMSG-USER-ERROR, Failed to preload image sp_139
+%UIMSG-USER-ERROR, Failed to preload image sp_140
+%UIMSG-USER-ERROR, Failed to preload image sp_141
+%UIMSG-USER-ERROR, Failed to preload image sp_142
+%UIMSG-USER-ERROR, Failed to preload image sp_143
+%UIMSG-USER-ERROR, Failed to preload image sp_144
+%UIMSG-USER-ERROR, Failed to preload image sp_145
+%UIMSG-USER-ERROR, Failed to preload image sp_146
+%UIMSG-USER-ERROR, Failed to preload image sp_147
+%UIMSG-USER-ERROR, Failed to preload image sp_148
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "proe/proribbon"
+%UIMSG-USER-ERROR, TitleBarImage "creo_logo_simulate.ico" is the wrong size (32x32) for main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Did not find item <PHTLeft.CeViewTabLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Did not find item <PHTLeft.HistLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Parent RegenStatusBarComp.NmgrNotifStatusDrawarea resizing child RegenStatusBarComp.NmgrNotifStatusButton (2,0) (32x16) to be partially viewable in (0,0) (32x16)
+%UIMSG-APPLICATION-ERROR, Component 'sash_left@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'sash_left@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'sash_left@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: proe_win, in device: rmb_popup, for retrieve
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../libs/prowtlibs"
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../proe/uitools"
+%UIMSG-APPLICATION-ERROR, Component 'sash_swap@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'sash_left@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.Folders@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.PHFolders.Nav_FT@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.PHFolders.TB_Shortcuts@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.PHFolders.sash_cmd_buttons@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: user_standard_page_for_cust_ribbon_tb_start, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: user_standard_page_for_cust_ribbon_tb_end, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER THREADS LAYOUT@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER_SMARTAB_LAYOUT@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER_SMARTAB_LAYOUT_container@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (819x25)
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.scrolled_tabs@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Could not find component: Sub_type_label, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, AddComponent: common_popop_menu is not a unique name
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2053 to component: main_dlg_w1, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, AddComponent: common_popup_open is not a unique name
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2053 to component: common_popop_menu, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, AddComponent: pop_remove_from_common is not a unique name
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2053 to component: common_popop_menu, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, AddComponent: pop_call_server_manager is not a unique name
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2053 to component: common_popop_menu, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, AddComponent: pop_view_server_page is not a unique name
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2053 to component: common_popop_menu, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, AddComponent: pop_set_primary_server is not a unique name
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2053 to component: common_popop_menu, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Nav_List_Info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_list.Filelist@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_list.Filelist@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_list.Filelist@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Nav_List_Info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_list.Filelist@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Nav_List_Info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_list.Filelist@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Nav_List_Info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_list.Filelist@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'EMBED_BROWSER NATIVE UI TAB.Ph_preview.tb_file_info@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,0) (300x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x26) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,-1) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Open, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.page_0 (0,-1) (300x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,0) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.tab_container resizing child EMBED_BROWSER_SMARTAB_LAYOUT_buttons_lay_ph.pshNewPage_inside (300,-1) (26x27) to be partially viewable in (0,0) (889x25)
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_open, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: FPSRadio, in device: file_open, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: FPSRadio, in device: file_open, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: FPSRadio, in device: file_open, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: FPSRadio, in device: file_open, for modify
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named KShitij Creo
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, KillTimer: A timer named "EmbedBrowserTimer" does not exist on UI Desktop@UI Desktop
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2217 to component: UI Desktop, in device: UI Desktop
